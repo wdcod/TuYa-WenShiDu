@@ -26,9 +26,5 @@ OLED屏幕可以显示各种信息，比如温湿度、亮度等等。OLED库封
 OLED screen can display all kinds of information, such as temperature, humidity, brightness and so on. OLED library encapsulates some functions. At present, it displays the values of each sensor. Users can directly modify the format they want in while (1).
 
 额外外引了一组IIC和串口，可以添加其他东西并方便调试。 代码使用STM32Cube IDE编写，打开.project即可
-29
-​
-
-
-额外外引了一组IIC和串口，可以添加其他东西并方便调试。 代码使用STM32Cube IDE编写，打开.project即可
+An additional set of IIC and serial port is introduced, which can add other things and facilitate debugging. Code using stm32cube IDE,just open .Project fil
 
