@@ -1,0 +1,5 @@
+main.c:74:6:OLED_Show_Time	56	static
+main.c:240:6:SystemClock_Config	8	static,ignoring_inline_asm
+main.c:108:5:main	32	static
+main.c:307:6:HAL_UART_RxCpltCallback	8	static
+main.c:320:6:Error_Handler	0	static,ignoring_inline_asm

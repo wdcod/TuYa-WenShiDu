@@ -1,0 +1,4 @@
+Hard.c:12:9:CheckCrc8	8	static
+Hard.c:36:9:i2c_write_cmd	24	static
+Hard.c:45:9:sht30_init	8	static
+Hard.c:53:9:sht30_sample	32	static
